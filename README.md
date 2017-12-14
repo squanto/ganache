@@ -65,7 +65,7 @@ This will create a signed `.dmg` file in `./out/make`.
 
 #### On Linux: 
 
-Bulding on Linux will create a `.AppImage` file, meant to run on many versions of Linux.
+Building on Linux will create a `.AppImage` file, meant to run on many versions of Linux.
 
 Linux requires no signing keys, so there's no set up. Simply run the following command:
 
